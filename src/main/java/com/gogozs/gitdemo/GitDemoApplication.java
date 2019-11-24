@@ -5,7 +5,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 
 //idea修改
-//远程修改
+//远程修改---1
+//远程修改---2
 @SpringBootApplication
 public class GitDemoApplication {
 
